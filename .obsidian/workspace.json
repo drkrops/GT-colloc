@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "01c536c1c02f36ba",
+        "id": "6fcca2e03deb4bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "7466ea7909ab957a",
+            "id": "5cc045ccfe3078ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП)"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП)"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП)"
+              "title": "Outline"
             }
           }
         ]
@@ -168,16 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7466ea7909ab957a",
+  "active": "5cc045ccfe3078ca",
   "lastOpenFiles": [
-    "4. Чистые стратегии. Цена игры. Седловая точка. Минимакс и Максимин.md",
+    "10. Поиск равновесия по Нэшу путём анализа платежной матрицы..md",
+    "9. Дилемма заключённого, суть парадокса. Метод СДС.md",
+    "images/9-def.png",
+    "8. Графический способ решения игр 2xm и nx2 (метод Симплексного метода).md",
+    "images/8-nx2-graph-sol.png",
+    "images/8-nx2-game-1.png",
+    "images/8-2xn-small-matrix.png",
+    "images/8-2xn-big-matrix.png",
+    "images/8-2xn-graph.png",
+    "7. Прямое решение игр 2х2. Причина отсутствия общего решения игр N х M.md",
+    "images/7-2x2-solution.png",
+    "6. Теорема Фон Неймана, доказательство.md",
     "5. Смешанные стратегии. Постановка задачи линейного программирования (ЗЛП).md",
+    "4. Чистые стратегии. Цена игры. Седловая точка. Минимакс и Максимин.md",
     "images/4-optimal-strategies.png",
     "images/4-idk-how-to-name-it.png",
     "3. Развернутая и матричная форма записи игры. Матричная форма записи антагонистической и статической игр.md",
     "images/3-normal-form-of-game.png",
-    "images/3-expanded-matrix.png",
-    "images/3-matrix-mn.png",
     "images",
     "2. Основные типы игр, основные типы игроков.md",
     "1. Предмет теории игр и основные определения (ход, стратегия, игра, игрок и пр.).md",
